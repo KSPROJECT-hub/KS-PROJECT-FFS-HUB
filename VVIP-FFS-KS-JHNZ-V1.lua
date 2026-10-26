@@ -4,7 +4,7 @@
 
 local KEY_CONFIG = {
     Enabled = true,
-    Key = "KS-JHNZ-8997"
+    Key = "KS-JHNZ-6490"
 }
 
 local P = game:GetService("Players")
