@@ -3,9 +3,10 @@
 local KEY_CONFIG = {
     Enabled = true,
     Keys = {
-        "KS-JHNZ-6490",
-        "KS-JHNZ-6491",
-        "KS-JHNZ-6492"
+        "KS-JHNZ-7984",
+        "KS-JHNZ-PRIVATE",
+        "KS-JHNZ-VVIP",
+        "KS-JHNZ-PERMANENT"
     }
 }
 
