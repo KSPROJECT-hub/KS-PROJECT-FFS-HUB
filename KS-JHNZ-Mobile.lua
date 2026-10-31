@@ -4,7 +4,7 @@ local KEY_CONFIG = {
     Enabled = true,
     Keys = {
         "KS-JHNZ-6490",
-        "KS-JHNZ-6491"
+        "KS-JHNZ-PRIVATE"
     }
 }
 
